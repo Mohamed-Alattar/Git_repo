@@ -2,8 +2,7 @@ dash
 pandas
 gunicorn
 plotly
-plotly.express
-plotly.graph_objects
+
 numpy
 datetime
 datetime
